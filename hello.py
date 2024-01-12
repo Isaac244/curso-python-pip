@@ -1,0 +1,1 @@
+print("Hola desde mi maquina de VSCODE. Aunque se puede hacer con pycharm")
