@@ -13,7 +13,7 @@ def generate_pie_char(labels, values):
   fig, ax = plt.subplots()
   ax.pie(values, labels=labels)
   ax.axis('equal')
-  plt.savefig('pie.png')
+  plt.savefig('chart_pie_FINAL_espero.png')
   plt.close()
   
 #Condicion para mostrar el codigo
